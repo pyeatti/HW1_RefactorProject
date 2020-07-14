@@ -1,0 +1,1 @@
+In this project we are taking DIV SOUP and making it into thoughtful syntax.
